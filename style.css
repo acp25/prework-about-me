@@ -1,0 +1,66 @@
+p1 {
+    color:red;
+    line-height: 2.5;
+}
+ 
+   
+p2 {
+    color:blue;
+    line-height: 2.5;
+}
+
+p3 {
+    color:green;
+    line-height: 2.5;
+}
+
+
+p4 {
+    font-size: xxx-large;
+    line-height: 2.5;
+}
+
+p5 {
+    font-size: xx-small;
+    line-height: 2.5;
+}
+
+p6 {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p7 {
+    font-weight: bold;
+    line-height: 2.5;
+}
+
+p8 {
+    font-family: fantasy;
+    line-height: 2.5;
+}
+
+p9 {
+    color:orange;
+    font-size: large;
+    font-weight: bold;
+    line-height: 2.5;
+}
+
+p10 {
+    color:turquoise;
+    font-size: large;
+    font-weight: bold;
+    line-height: 2.5;
+}
+
+.Picture {
+    width: 300px;
+  background-color: #ffa;
+  border: 36px solid red;
+  margin: 30px;
+  padding: 10px;
+
+}
